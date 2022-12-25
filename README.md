@@ -1,9 +1,9 @@
 # CPTIMER
-competitive programming timer/stopwatch (recommended for codeforces)
+competitive programming stopwatch
 
 STEPS:
-1. Just download the .py (Latest version) file
-2. Change the path(line number 78) to your working directory
+1. Download any .py (Latest version recommended) file
+2. Change the path (line number 78) to your working directory
 3. Run the python file 
 
 
