@@ -10,3 +10,6 @@ STEPS:
 Working:
 Once you start solving the problem add link in text box and after that select the problem rating and then press click me. Then you can start the counter and once done just stop the counter and press done, you will get "ADDED!" as message. then reset the counter.
 You can get all your data in .csv files created in working directory.
+
+UPDATE:
+If drop down menu is not working properly hold the click and then select the rating.
