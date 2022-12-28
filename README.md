@@ -8,9 +8,11 @@ STEPS:
 
 
 Working:
-Once you start solving the problem add link in text box and after that select the problem rating and then press click me. Then you can start the counter and once done just stop the counter and press done, you will get "ADDED!" as message. then reset the counter.
-You can get all your data in .csv files created in working directory.
+
+1. Once you start solving the problem add link in text box and after that select the problem rating and then press click me.
+2. Then you can start the counter (By pressing start) and once done just press done, you will get "ADDED!" as message. (if you get "NOT VALID LINK" just add a "/"(slash) at the end of link).
+3. You can get all your data in .csv files created in working directory with the name as problem rating.
 
 UPDATE:
 
-If drop down menu is not working properly hold the click and then select the rating.
+If drop down menu is not working properly then hold the click and then select the rating.
