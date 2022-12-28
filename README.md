@@ -12,4 +12,5 @@ Once you start solving the problem add link in text box and after that select th
 You can get all your data in .csv files created in working directory.
 
 UPDATE:
+
 If drop down menu is not working properly hold the click and then select the rating.
