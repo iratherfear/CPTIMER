@@ -3,7 +3,7 @@ competitive programming stopwatch
 
 STEPS:
 1. Download any .py (Latest version recommended) file
-2. Change the path (line number 96 depends upon the version) to your working directory
+2. Change the path (line number 96-depends upon the version) to your working directory
 3. Run the python file 
 
 
