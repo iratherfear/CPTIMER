@@ -25,7 +25,7 @@ def delete_last_line():
 
     with open(path1, 'r', encoding='utf-8') as file:
         data = file.readlines() 
-    if len(data) == 1:
+    if len(data) <= 1:
         print("Nothing to delete")
         return
     data.pop()
