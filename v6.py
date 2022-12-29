@@ -53,6 +53,10 @@ def createFile(SHEET_NAME):
     
 
 def writeToFile(textToWrite):
+    if path1 == "":
+        print("No file selected")
+        return
+
     file1 = open(path1, "a+")  # append mode
     file1.write(textToWrite)
     file1.close()
